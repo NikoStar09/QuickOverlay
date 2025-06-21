@@ -12,7 +12,7 @@ QuickOverlay es una herramienta visual en forma de bookmarklet que te permite ca
 
 ⚙ ¿Cómo se usa?
 - Crea un nuevo marcador en tu navegador.
-- Copia y pega el código del bookmarklet en el campo de URL.
+- Copia y pega el código de bookmarklet.js en el campo de URL. 
 - Haz clic en el marcador en cualquier página web.
 - ¡Y listo! Aparecerá el panel flotante para cargar y controlar tu imagen.
 
