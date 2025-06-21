@@ -1,4 +1,4 @@
-# QuickOverlay
+# QuickOverlay v0.8
 
 QuickOverlay es una herramienta visual en forma de bookmarklet que te permite cargar, posicionar y ajustar imágenes de referencia directamente sobre cualquier página web. Ideal para diseño, UI, corrección visual o simplemente tener una imagen flotante donde la necesites, sin plugins ni extensiones.
 
